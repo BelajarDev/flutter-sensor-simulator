@@ -13,7 +13,7 @@ Aplikasi ini dibuat untuk mempelajari dasar Flutter seperti:
 
 ## 📱 Preview Aplikasi
 
-![App Preview](assets/screenshots/home.png)
+<img src="assets/screenshots/home.png" width="300"/>
 
 ---
 
